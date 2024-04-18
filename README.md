@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I am Kartik Singh 👋
+![computer](https://github.com/iamkartiksingh-K/iamkartiksingh-K/assets/62024947/9e59aea1-ffec-4f63-bd31-d2ad1a3b5135)
 
 <!--
 **iamkartiksingh-K/iamkartiksingh-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
