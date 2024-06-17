@@ -3,9 +3,9 @@
 
 ![james-harrison-vpOeXr5wmR4-unsplash](https://github.com/iamkartiksingh-K/iamkartiksingh-K/assets/62024947/83028158-6bca-4e67-accc-67a0e532b5c9)
 
-- 🔭 I’m currently working on [EasySplit](https://github.com/iamkartiksingh-K/EasySplit_client)
+- 🔭 I’m currently working on saralSchool.
 
-- 🌱 I’m currently learning **TypeScript, Express and MongoDB**
+- 🌱 I’m currently learning **TypeScript, Next.js**
 
 - 📫 How to reach me **kartiksinghk2001@gmail.com**
 
